@@ -8,7 +8,7 @@ I use Shapr3d for all my CAD-ish work and the source for the DXFs lives there. `
 
 `dxf/All Parts.dxf` contains all the indivdual parts. When I cut my cases, I drag the `All Parts.dxf` file into the Glowforge site and pick out the pieces I need. 
 
-The thickness of the parts is really dealer's choice. I print the top and bottom plates in 3mm, with two 6mm spacers. If using the key switch plate, that pretty much has to be in 1.5mm acrylic.
+The thickness of the parts is really dealer's choice. I print the top and bottom plates in 3mm, with two 6mm spacers. If using the key switch plate, that pretty much has to be in 1.5mm acrylic. (My Minidox builds use Elite-C controllers and low-profile headers. If you used Pro Micro and standard sized headers, you will probably need a least an additional 6mm spacer.)
 
 This is designed for round standoffs. Hex standoffs will not fit.
 
